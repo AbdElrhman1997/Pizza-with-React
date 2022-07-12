@@ -1,0 +1,73 @@
+.sweet {
+    color: white;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(79, 4, 4);
+    width: 100%;
+    height: 100vh;
+    padding: 3rem;
+    box-sizing: border-box;
+    position: relative;
+    z-index: -2;
+}
+.headSweet {
+    font-weight: bold;
+    font-size: 2rem;
+}
+.sweetCard {
+    width: 20%;
+    position: relative;
+}
+.sweetImg {
+    position: relative;
+    width: 100%;
+    height: 40%;
+}
+.sweetContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.descSweet {
+    line-height: 1.7;    
+    width: 90%;
+    margin: 1.4rem auto;
+}
+.back {
+    width: 100%;
+    height: 40%;
+    background-color: rgba(237, 237, 0, 0.861);
+    position: absolute;
+    top: 0.5rem;
+    right: -.5rem;
+    z-index: -2;
+}
+.btn-sweet {
+    text-align: center;
+    padding: .8rem;
+    width: 15%;
+    height: fit-content;
+    background-color: rgb(216, 73, 12);
+    margin: 1rem 0 0;
+    margin: auto;
+    border-radius: 4px;
+    width: 40%;
+    cursor: pointer;
+}
+.btn-sweet:hover {
+    background-color: rgb(174, 63, 16);
+}
+@media (max-width:840px) {
+    .sweetContainer {
+        flex-direction: column;
+    }
+    .sweetCard {
+        margin: auto;
+        width: 80%;
+    }
+    .btn-sweet {
+        margin: 1rem auto 3rem;
+    }
+    .sweet {
+        height: fit-content;
+    }
+}
