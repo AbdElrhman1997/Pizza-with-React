@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pizza-with-React/static/css/main.cd4807f7.css",
+    "main.js": "/Pizza-with-React/static/js/main.c35613ba.js",
+    "static/media/pexels-pixabay-edit-315755.jpg": "/Pizza-with-React/static/media/pexels-pixabay-edit-315755.41fc8e888cec4a0f4571.jpg",
+    "static/media/pexels-shameel-mukkath-5640024.jpg": "/Pizza-with-React/static/media/pexels-shameel-mukkath-5640024.5b848163a7f258ac3ed3.jpg",
+    "static/media/pexels-sharan-pagadala-12529119.jpg": "/Pizza-with-React/static/media/pexels-sharan-pagadala-12529119.4f7c2e22adf0e59ee5ee.jpg",
+    "static/media/pexels-roman-odintsov-4553111.jpg": "/Pizza-with-React/static/media/pexels-roman-odintsov-4553111.5d1071f35370c3860028.jpg",
+    "static/media/pexels-natasha-filippovskaya-4394612.jpg": "/Pizza-with-React/static/media/pexels-natasha-filippovskaya-4394612.a0d9cb8b361fab620f8b.jpg",
+    "static/media/pexels-oksana-d-3081657.jpg": "/Pizza-with-React/static/media/pexels-oksana-d-3081657.1c42e1297e6c6f61d8c3.jpg",
+    "static/media/pexels-nishant-aneja-2955820.jpg": "/Pizza-with-React/static/media/pexels-nishant-aneja-2955820.28c89f0e168bb226c625.jpg",
+    "static/media/pexels-pixabay-45202.jpg": "/Pizza-with-React/static/media/pexels-pixabay-45202.cf7c6cfd2c54cd21d05a.jpg",
+    "index.html": "/Pizza-with-React/index.html",
+    "main.cd4807f7.css.map": "/Pizza-with-React/static/css/main.cd4807f7.css.map",
+    "main.c35613ba.js.map": "/Pizza-with-React/static/js/main.c35613ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4807f7.css",
+    "static/js/main.c35613ba.js"
+  ]
+}
